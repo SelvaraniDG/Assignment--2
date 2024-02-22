@@ -22,3 +22,7 @@ This repository contains a simple API written in Python using Flask. The API all
 
 2. To run `python app.py`
 
+#Assignment was to-
+## Add a README file
+## Add a gitignore file
+## Raise a PR
