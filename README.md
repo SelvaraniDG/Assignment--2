@@ -1,4 +1,4 @@
-# Country Cpital API:
+# Country Capital API:
 This repository contains a simple API written in Python using Flask. The API allows users to retrieve the name of a country by providing its capital city. It is served using the ASGI server Uvicorn, and a microservice endpoint is available for consumption.
 
 ## Installation:
